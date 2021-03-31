@@ -10,6 +10,10 @@
 ![image](https://user-images.githubusercontent.com/43367868/112931107-77ea7080-9156-11eb-91b5-2f49faa3c421.png)
 *** 
 
+### 모델 구성도
+![image](https://user-images.githubusercontent.com/43367868/113096926-13501400-9231-11eb-94bc-478e6147d991.png)  
+***
+
 ### 모델 설명
 - 데이터 전처리  
 원본이미지를 좌우로 20도씩 회전, 256x256 크기로 crop 함. 이때 성냥의 빨간 머리가 잘리지 않도록 하였으며 잘린 이미지는 사용하지 않음. --> 모양 이미지  
